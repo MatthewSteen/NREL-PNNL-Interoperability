@@ -1,2 +1,4 @@
 brickschema>=0.5.2a3
 dedupe<2.0.9
+tabulate
+colorama
